@@ -21,7 +21,7 @@ without the plan.
 ### Built With
 
 - [React](https://pt-br.reactjs.org/)
-- [Chakra-Ui](https://ant.design/)](https://chakra-ui.com/)
+- [Chakra-Ui](https://chakra-ui.com/)
 - [StoryBook](https://storybook.js.org/)
 - [PropTypes](https://www.npmjs.com/package/prop-types)
 - [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)
