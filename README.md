@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+ <p align="center">
+ <a href="https://github.com/kyotodevindie">
+    <img src="/src/Assets/logo.svg" alt="Logo" >
+  </a>
+</p>
+  <p align="center">
+    The telephone company Telzir, specialized in national long distance calls, will place
+a new product on the market called FaleMais.  With Telzir's new FaleMais product, the customer purchases a plan and can talk for free up to
+a certain amount of time (in minutes) and you only pay for the excess minutes. the extra minutes
+has a 10% surcharge on the normal minute rate. Telzir, concerned with transparency with its customers, wants to provide a
+web page where the customer can calculate the call value. There, the customer can choose the
+origin and destination city codes, the connection time in minutes and choose which
+SpeakMore plan. The system should show two values: (1) the value of the connection with the plan and (2)
+without the plan.
+    <br />
+    <a href="https://vialaser-challenge.vercel.app/">View Demo</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Prints -->
 
-## Available Scripts
+### Built With
 
-In the project directory, you can run:
+- [React](https://pt-br.reactjs.org/)
+- [Chakra-Ui](https://chakra-ui.com/)
+- [StoryBook](https://storybook.js.org/)
+- [PropTypes](https://www.npmjs.com/package/prop-types)
+- [React-Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
-### `npm start`
+### Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```sh
+git clone https://github.com/kyotodevIndie/tasks..git
+```
 
-### `npm test`
+3. Install the packages using NPM or Yarn
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+yarn
+```
+4. run the project
 
-### `npm run build`
+```sh
+yarn start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. Happy coding!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Utils
 
-### `npm run eject`
+1. To run the project
+```sh
+yarn start
+```
+2. To run the storybook
+```sh
+yarn run storybook
+```
+3. To run the build
+```sh
+yarn build
+```
+4. To run the tests
+```sh
+yarn test
+```
+5. To run the EsLint 
+```sh
+yarn lint
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- LICENSE -->
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Distributed under the MIT License. See `LICENSE` for more information.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Thank you!
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   <p> 
+    thank you for your patience to read this far! if possible, give a star!
+   </p> 
+   <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
