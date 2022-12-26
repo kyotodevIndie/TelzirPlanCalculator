@@ -1,26 +1,47 @@
- <p align="center">
- <a href="https://github.com/kyotodevindie">
-    <img src="/src/Assets/Images/logo.svg" alt="Logo" >
-  </a>
+<!-- Logo Section -->
+<p align="center">
+   <a href="https://github.com/kyotodevindie">
+      <img src="/src/Assets/Images/logo.svg" alt="Logo" >
+   </a>
 </p>
 
-### Challenge
 
-  <p align="center">
+<!-- Challenge Section -->
+### Challenge
+<br>
+  <p>
     The telephone company Telzir, specialized in national long distance calls, will place
-a new product on the market called FaleMais.  With Telzir's new FaleMais product, the customer purchases a plan and can talk for free up to
+a new product on the market called FaleMais. 
+  <br><br>
+    Normally a Telzir customer can make a call from one city to another by paying a
+fixed rate per minute, with the price being pre-defined in a list with the DDD codes of
+Origin and destiny:
+  <br><br>  
+  <img src="public/Assets/Repo/challenge.png" alt="img">
+  <br><br>
+ With Telzir's new FaleMais product, the customer purchases a plan and can talk for free up to
 a certain amount of time (in minutes) and you only pay for the excess minutes. the extra minutes
-has a 10% surcharge on the normal minute rate. Telzir, concerned with transparency with its customers, wants to provide a
+has a 10% surcharge on the normal minute rate. Plans are FaleMais 30 (30
+minutes), FaleMais 60 (60 minutes) and FaleMais 120 (120 minutes).
+  <br><br>
+Telzir, concerned with transparency with its customers, wants to provide a
 web page where the customer can calculate the call value. There, the customer can choose the
 origin and destination city codes, the connection time in minutes and choose which
 SpeakMore plan. The system should show two values: (1) the value of the connection with the plan and (2)
-without the plan.
-    <br />
-    <a href="https://vialaser-challenge.vercel.app/">View Demo</a>
+without the plan. The initial cost of acquiring the plan should be disregarded for this problem.
+  <br><br>
+  Example
+    <br><br>  
+  <img src="public/Assets/Repo/example.png" alt="img">
+  <br><br>
+  
+  <!-- Demo Section -->
+### Demo
+  <a href="https://vialaser-challenge.vercel.app/"><img src="public/Assets/Repo/demoButton.svg"  alt="img"></a>
 </p>
 
-<!-- Prints -->
 
+<!-- Build With Section -->
 ### Built With
 
 - [React](https://pt-br.reactjs.org/)
@@ -31,6 +52,8 @@ without the plan.
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
+
+<!-- Installation Section -->
 ### Installation
 
 1. Clone the repo
@@ -54,6 +77,8 @@ yarn start
 
 6. Happy coding!
 
+
+<!-- Utils Section -->
 ### Utils
 
 1. To run the project
@@ -77,6 +102,8 @@ yarn test
 yarn lint
 ```
 
+
+<!-- Contributing Section -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -87,12 +114,14 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
 
+<!-- License Section -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+
+<!-- Thank you Section -->
 ## Thank you!
 
    <p> 
