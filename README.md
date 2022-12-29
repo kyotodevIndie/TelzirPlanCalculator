@@ -36,10 +36,6 @@ without the plan. The initial cost of acquiring the plan should be disregarded f
   <br><br>
   
   <!-- Demo Section -->
-### Demo
-  <a href="https://vialaser-challenge.vercel.app/"><img src="public/Assets/Repo/demoButton.svg"  alt="img"></a>
-</p>
-
 
 <!-- Build With Section -->
 ### Built With
